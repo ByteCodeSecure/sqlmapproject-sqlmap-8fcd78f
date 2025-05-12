@@ -114,7 +114,7 @@ Los desarrolladores de esta GUI no se hacen responsables del mal uso de esta her
 
 ## 📄 Licencia
 
-Este proyecto se distribuye bajo la Licencia [NOMBRE DE LA LICENCIA AQUÍ, ej. MIT, GPLv3].
-Consulta el archivo `LICENSE` para más detalles. (Asegúrate de añadir un archivo `LICENSE` a tu repositorio).
+Este proyecto se distribuye bajo la licencia [MIT](LICENSE).  
+Consulta el archivo `LICENSE` para más detalles.
 
 ¡Esperamos que esta herramienta te sea útil!
