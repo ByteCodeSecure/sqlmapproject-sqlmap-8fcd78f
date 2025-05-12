@@ -34,7 +34,7 @@ _Ejemplo:_
     ```bash
     # Ejemplo si tienes SQLMap en /opt/sqlmap y clonas este GUI dentro:
     # cd /opt/sqlmap
-    # git clone [https://github.com/ByteCodeSecure/sqlmapproject-sqlmap-8fcd78f](https://github.com/ByteCodeSecure/sqlmapproject-sqlmap-8fcd78f)
+    # git clone https://github.com/ByteCodeSecure/sqlmapproject-sqlmap-8fcd78f
     # mv sqlmap-gui-automator/* .
     # rm -rf sqlmap-gui-automator
     ```
