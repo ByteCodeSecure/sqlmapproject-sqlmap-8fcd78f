@@ -6,7 +6,14 @@ Una interfaz gráfica moderna para SQLMap que permite automatizar pruebas de iny
 
 _Ejemplo:_
 
-![SQLMap GUI Automator Demo](https://i.ibb.co/n8tkQHHx/Screenshot-2025-05-12-133124.jpg)
+![SQLMap GUI Automator](https://i.ibb.co/n8tkQHHx/Screenshot-2025-05-12-133124.jpg)
+
+![SQLMap GUI Automator](https://i.ibb.co/xSnPX1Yd/Screenshot-2025-05-12-140640.jpg)
+
+![SQLMap GUI Automator](https://i.ibb.co/23TkqY0P/Screenshot-2025-05-12-140654.jpg)
+
+![SQLMap GUI Automator](https://i.ibb.co/2YtskH9S/Screenshot-2025-05-12-140707.jpg)
+
 
 ---
 
