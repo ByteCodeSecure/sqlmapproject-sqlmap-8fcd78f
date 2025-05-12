@@ -19,21 +19,7 @@ Una interfaz gráfica moderna para SQLMap que permite automatizar pruebas de iny
 ## Instalación y ejecución
 
 1. Coloca todos los archivos en el directorio raíz de SQLMap
-2. Ejecuta el script: `python sqlmap-gui-fixed.py`
-
-## Estructura del proyecto
-
-El proyecto está organizado en módulos para facilitar su mantenimiento:
-
-- `build-py/`: Directorio con los módulos de la aplicación
-  - `sqlmap_gui_base.py`: Clases base y definiciones
-  - `sqlmap_gui_extraction.py`: Pestaña de extracción de datos
-  - `sqlmap_gui_scan.py`: Pestaña de escaneo
-  - `sqlmap_gui_results.py`: Pestañas de resultados y ayuda
-  - `sqlmap_gui_main.py`: Clase principal de la aplicación
-  - `__init__.py`: Archivo para que el directorio sea un paquete Python
-
-- `sqlmap-gui-fixed.py`: Script principal para ejecutar la aplicación
+2. Ejecuta el script: `ejecutar_sqlmap_gui.bat`
 
 ## Uso de la aplicación
 
