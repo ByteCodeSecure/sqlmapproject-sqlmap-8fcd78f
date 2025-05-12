@@ -2,8 +2,11 @@
 
 Una interfaz gráfica moderna para SQLMap que permite automatizar pruebas de inyección SQL, con capacidades avanzadas de extracción de datos y descifrado de contraseñas.
 
-**[✨ ¡AQUÍ PUEDES INSERTAR UNA IMAGEN O GIF DE LA APLICACIÓN! ✨]**
-_Ejemplo: ![SQLMap GUI Automator Demo](https://i.ibb.co/n8tkQHHx/Screenshot-2025-05-12-133124.jpg)_
+## ✨ ¡Vista previa! ✨
+
+_Ejemplo:_
+
+![SQLMap GUI Automator Demo](https://i.ibb.co/n8tkQHHx/Screenshot-2025-05-12-133124.jpg)
 
 ---
 
